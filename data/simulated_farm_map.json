@@ -1,0 +1,1003 @@
+{
+  "metadata": {
+    "seed": 20260612,
+    "map_width_m": 1000,
+    "map_height_m": 1000,
+    "grid_size_m": 20,
+    "uav_start": [
+      50.0,
+      50.0
+    ],
+    "scenario": "connected_block_rice_crayfish_farm_with_canals"
+  },
+  "ponds": [
+    {
+      "pond_id": 1,
+      "polygon": [
+        [
+          109.78,
+          103.93
+        ],
+        [
+          235.77,
+          106.86
+        ],
+        [
+          236.32,
+          258.58
+        ],
+        [
+          118.92,
+          254.75
+        ]
+      ],
+      "center": [
+        175.2,
+        181.03
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 2,
+      "polygon": [
+        [
+          271.78,
+          116.64
+        ],
+        [
+          400.41,
+          108.93
+        ],
+        [
+          391.76,
+          248.45
+        ],
+        [
+          277.72,
+          247.44
+        ]
+      ],
+      "center": [
+        335.42,
+        180.37
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 3,
+      "polygon": [
+        [
+          442.69,
+          105.96
+        ],
+        [
+          572.45,
+          110.26
+        ],
+        [
+          571.93,
+          252.59
+        ],
+        [
+          440.45,
+          261.66
+        ]
+      ],
+      "center": [
+        506.88,
+        182.62
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 4,
+      "polygon": [
+        [
+          623.52,
+          117.24
+        ],
+        [
+          749.95,
+          117.58
+        ],
+        [
+          755.59,
+          242.76
+        ],
+        [
+          620.95,
+          231.63
+        ]
+      ],
+      "center": [
+        687.5,
+        177.3
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 5,
+      "polygon": [
+        [
+          790.13,
+          104.07
+        ],
+        [
+          938.27,
+          104.29
+        ],
+        [
+          930.34,
+          233.15
+        ],
+        [
+          791.54,
+          237.32
+        ]
+      ],
+      "center": [
+        862.57,
+        169.71
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 6,
+      "polygon": [
+        [
+          107.2,
+          298.55
+        ],
+        [
+          235.93,
+          302.17
+        ],
+        [
+          239.22,
+          419.97
+        ],
+        [
+          108.48,
+          429.91
+        ]
+      ],
+      "center": [
+        172.71,
+        362.65
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 7,
+      "polygon": [
+        [
+          262.37,
+          306.49
+        ],
+        [
+          397.3,
+          301.14
+        ],
+        [
+          398.32,
+          423.66
+        ],
+        [
+          262.79,
+          422.16
+        ]
+      ],
+      "center": [
+        330.19,
+        363.36
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 8,
+      "polygon": [
+        [
+          447.46,
+          291.1
+        ],
+        [
+          577.67,
+          298.92
+        ],
+        [
+          577.92,
+          438.09
+        ],
+        [
+          453.08,
+          431.21
+        ]
+      ],
+      "center": [
+        514.03,
+        364.83
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 9,
+      "polygon": [
+        [
+          620.03,
+          292.51
+        ],
+        [
+          736.41,
+          303.32
+        ],
+        [
+          730.4,
+          431.8
+        ],
+        [
+          617.64,
+          426.47
+        ]
+      ],
+      "center": [
+        676.12,
+        363.52
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 10,
+      "polygon": [
+        [
+          786.64,
+          291.62
+        ],
+        [
+          909.46,
+          297.21
+        ],
+        [
+          914.14,
+          436.67
+        ],
+        [
+          793.38,
+          441.21
+        ]
+      ],
+      "center": [
+        850.9,
+        366.68
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 11,
+      "polygon": [
+        [
+          112.09,
+          543.23
+        ],
+        [
+          254.52,
+          541.75
+        ],
+        [
+          254.27,
+          681.99
+        ],
+        [
+          116.06,
+          688.93
+        ]
+      ],
+      "center": [
+        184.24,
+        613.98
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 12,
+      "polygon": [
+        [
+          262.44,
+          543.94
+        ],
+        [
+          394.95,
+          541.87
+        ],
+        [
+          406.92,
+          672.32
+        ],
+        [
+          274.01,
+          684.08
+        ]
+      ],
+      "center": [
+        334.58,
+        610.55
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 13,
+      "polygon": [
+        [
+          450.93,
+          545.49
+        ],
+        [
+          565.31,
+          546.27
+        ],
+        [
+          575.12,
+          673.45
+        ],
+        [
+          440.6,
+          670.18
+        ]
+      ],
+      "center": [
+        507.99,
+        608.85
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 14,
+      "polygon": [
+        [
+          627.23,
+          544.61
+        ],
+        [
+          754.99,
+          544.99
+        ],
+        [
+          749.94,
+          684.9
+        ],
+        [
+          612.35,
+          684.31
+        ]
+      ],
+      "center": [
+        686.13,
+        614.7
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 15,
+      "polygon": [
+        [
+          791.35,
+          538.01
+        ],
+        [
+          920.99,
+          550.25
+        ],
+        [
+          922.3,
+          668.32
+        ],
+        [
+          785.6,
+          674.87
+        ]
+      ],
+      "center": [
+        855.06,
+        607.86
+      ],
+      "unit_type": "rice_crayfish_paddy"
+    },
+    {
+      "pond_id": 16,
+      "polygon": [
+        [
+          108.08,
+          726.05
+        ],
+        [
+          234.16,
+          731.48
+        ],
+        [
+          236.83,
+          867.22
+        ],
+        [
+          110.42,
+          851.73
+        ]
+      ],
+      "center": [
+        172.37,
+        794.12
+      ],
+      "unit_type": "crayfish_pond"
+    },
+    {
+      "pond_id": 17,
+      "polygon": [
+        [
+          269.43,
+          739.72
+        ],
+        [
+          391.76,
+          729.56
+        ],
+        [
+          389.66,
+          857.09
+        ],
+        [
+          277.93,
+          852.59
+        ]
+      ],
+      "center": [
+        332.2,
+        794.74
+      ],
+      "unit_type": "crayfish_pond"
+    },
+    {
+      "pond_id": 18,
+      "polygon": [
+        [
+          440.75,
+          740.29
+        ],
+        [
+          580.12,
+          738.04
+        ],
+        [
+          571.91,
+          857.0
+        ],
+        [
+          441.96,
+          849.97
+        ]
+      ],
+      "center": [
+        508.69,
+        796.33
+      ],
+      "unit_type": "crayfish_pond"
+    }
+  ],
+  "canals": [
+    {
+      "canal_id": 1,
+      "kind": "main_canal",
+      "polyline": [
+        [
+          90,
+          500
+        ],
+        [
+          910,
+          500
+        ]
+      ],
+      "width": 28.0
+    },
+    {
+      "canal_id": 2,
+      "kind": "branch_canal",
+      "polyline": [
+        [
+          220,
+          130
+        ],
+        [
+          204.4290567526248,
+          870
+        ]
+      ],
+      "width": 16.0
+    },
+    {
+      "canal_id": 3,
+      "kind": "branch_canal",
+      "polyline": [
+        [
+          390,
+          130
+        ],
+        [
+          385.9987980123285,
+          870
+        ]
+      ],
+      "width": 16.0
+    },
+    {
+      "canal_id": 4,
+      "kind": "branch_canal",
+      "polyline": [
+        [
+          610,
+          130
+        ],
+        [
+          622.6968494163534,
+          870
+        ]
+      ],
+      "width": 16.0
+    },
+    {
+      "canal_id": 5,
+      "kind": "branch_canal",
+      "polyline": [
+        [
+          780,
+          130
+        ],
+        [
+          780.5563897864954,
+          870
+        ]
+      ],
+      "width": 16.0
+    }
+  ],
+  "facilities": [
+    {
+      "facility_id": 1,
+      "kind": "inlet_outlet",
+      "x": 115.51,
+      "y": 187.44,
+      "pond_id": 1
+    },
+    {
+      "facility_id": 2,
+      "kind": "feeding_point",
+      "x": 158.42,
+      "y": 175.33,
+      "pond_id": 1
+    },
+    {
+      "facility_id": 3,
+      "kind": "aerator",
+      "x": 191.57,
+      "y": 149.87,
+      "pond_id": 1
+    },
+    {
+      "facility_id": 4,
+      "kind": "water_sensor",
+      "x": 190.42,
+      "y": 205.48,
+      "pond_id": 1
+    },
+    {
+      "facility_id": 5,
+      "kind": "inlet_outlet",
+      "x": 270.84,
+      "y": 179.56,
+      "pond_id": 2
+    },
+    {
+      "facility_id": 6,
+      "kind": "feeding_point",
+      "x": 318.72,
+      "y": 184.43,
+      "pond_id": 2
+    },
+    {
+      "facility_id": 7,
+      "kind": "inlet_outlet",
+      "x": 578.18,
+      "y": 175.02,
+      "pond_id": 3
+    },
+    {
+      "facility_id": 8,
+      "kind": "feeding_point",
+      "x": 534.64,
+      "y": 163.15,
+      "pond_id": 3
+    },
+    {
+      "facility_id": 9,
+      "kind": "aerator",
+      "x": 516.91,
+      "y": 209.28,
+      "pond_id": 3
+    },
+    {
+      "facility_id": 10,
+      "kind": "water_sensor",
+      "x": 498.58,
+      "y": 213.81,
+      "pond_id": 3
+    },
+    {
+      "facility_id": 11,
+      "kind": "inlet_outlet",
+      "x": 755.13,
+      "y": 177.92,
+      "pond_id": 4
+    },
+    {
+      "facility_id": 12,
+      "kind": "feeding_point",
+      "x": 696.21,
+      "y": 151.97,
+      "pond_id": 4
+    },
+    {
+      "facility_id": 13,
+      "kind": "aerator",
+      "x": 708.2,
+      "y": 162.82,
+      "pond_id": 4
+    },
+    {
+      "facility_id": 14,
+      "kind": "inlet_outlet",
+      "x": 935.54,
+      "y": 163.43,
+      "pond_id": 5
+    },
+    {
+      "facility_id": 15,
+      "kind": "feeding_point",
+      "x": 888.71,
+      "y": 186.96,
+      "pond_id": 5
+    },
+    {
+      "facility_id": 16,
+      "kind": "inlet_outlet",
+      "x": 110.01,
+      "y": 359.18,
+      "pond_id": 6
+    },
+    {
+      "facility_id": 17,
+      "kind": "feeding_point",
+      "x": 179.98,
+      "y": 363.47,
+      "pond_id": 6
+    },
+    {
+      "facility_id": 18,
+      "kind": "aerator",
+      "x": 172.96,
+      "y": 343.67,
+      "pond_id": 6
+    },
+    {
+      "facility_id": 19,
+      "kind": "inlet_outlet",
+      "x": 257.05,
+      "y": 364.55,
+      "pond_id": 7
+    },
+    {
+      "facility_id": 20,
+      "kind": "feeding_point",
+      "x": 336.1,
+      "y": 359.74,
+      "pond_id": 7
+    },
+    {
+      "facility_id": 21,
+      "kind": "aerator",
+      "x": 359.05,
+      "y": 336.2,
+      "pond_id": 7
+    },
+    {
+      "facility_id": 22,
+      "kind": "water_sensor",
+      "x": 309.81,
+      "y": 335.79,
+      "pond_id": 7
+    },
+    {
+      "facility_id": 23,
+      "kind": "inlet_outlet",
+      "x": 585.28,
+      "y": 372.27,
+      "pond_id": 8
+    },
+    {
+      "facility_id": 24,
+      "kind": "feeding_point",
+      "x": 512.29,
+      "y": 343.72,
+      "pond_id": 8
+    },
+    {
+      "facility_id": 25,
+      "kind": "inlet_outlet",
+      "x": 738.39,
+      "y": 363.44,
+      "pond_id": 9
+    },
+    {
+      "facility_id": 26,
+      "kind": "feeding_point",
+      "x": 685.31,
+      "y": 342.32,
+      "pond_id": 9
+    },
+    {
+      "facility_id": 27,
+      "kind": "water_sensor",
+      "x": 665.79,
+      "y": 386.87,
+      "pond_id": 9
+    },
+    {
+      "facility_id": 28,
+      "kind": "inlet_outlet",
+      "x": 919.03,
+      "y": 371.62,
+      "pond_id": 10
+    },
+    {
+      "facility_id": 29,
+      "kind": "feeding_point",
+      "x": 874.85,
+      "y": 386.68,
+      "pond_id": 10
+    },
+    {
+      "facility_id": 30,
+      "kind": "aerator",
+      "x": 869.08,
+      "y": 354.12,
+      "pond_id": 10
+    },
+    {
+      "facility_id": 31,
+      "kind": "water_sensor",
+      "x": 876.86,
+      "y": 379.66,
+      "pond_id": 10
+    },
+    {
+      "facility_id": 32,
+      "kind": "inlet_outlet",
+      "x": 113.42,
+      "y": 615.83,
+      "pond_id": 11
+    },
+    {
+      "facility_id": 33,
+      "kind": "feeding_point",
+      "x": 166.08,
+      "y": 606.25,
+      "pond_id": 11
+    },
+    {
+      "facility_id": 34,
+      "kind": "aerator",
+      "x": 196.24,
+      "y": 596.57,
+      "pond_id": 11
+    },
+    {
+      "facility_id": 35,
+      "kind": "water_sensor",
+      "x": 168.15,
+      "y": 612.48,
+      "pond_id": 11
+    },
+    {
+      "facility_id": 36,
+      "kind": "inlet_outlet",
+      "x": 256.12,
+      "y": 606.37,
+      "pond_id": 12
+    },
+    {
+      "facility_id": 37,
+      "kind": "feeding_point",
+      "x": 343.29,
+      "y": 604.6,
+      "pond_id": 12
+    },
+    {
+      "facility_id": 38,
+      "kind": "aerator",
+      "x": 322.54,
+      "y": 613.13,
+      "pond_id": 12
+    },
+    {
+      "facility_id": 39,
+      "kind": "water_sensor",
+      "x": 342.74,
+      "y": 629.61,
+      "pond_id": 12
+    },
+    {
+      "facility_id": 40,
+      "kind": "inlet_outlet",
+      "x": 574.45,
+      "y": 607.96,
+      "pond_id": 13
+    },
+    {
+      "facility_id": 41,
+      "kind": "feeding_point",
+      "x": 517.83,
+      "y": 627.49,
+      "pond_id": 13
+    },
+    {
+      "facility_id": 42,
+      "kind": "water_sensor",
+      "x": 502.38,
+      "y": 627.13,
+      "pond_id": 13
+    },
+    {
+      "facility_id": 43,
+      "kind": "inlet_outlet",
+      "x": 759.99,
+      "y": 618.99,
+      "pond_id": 14
+    },
+    {
+      "facility_id": 44,
+      "kind": "feeding_point",
+      "x": 711.3,
+      "y": 639.54,
+      "pond_id": 14
+    },
+    {
+      "facility_id": 45,
+      "kind": "inlet_outlet",
+      "x": 917.46,
+      "y": 611.77,
+      "pond_id": 15
+    },
+    {
+      "facility_id": 46,
+      "kind": "feeding_point",
+      "x": 845.07,
+      "y": 597.01,
+      "pond_id": 15
+    },
+    {
+      "facility_id": 47,
+      "kind": "aerator",
+      "x": 849.53,
+      "y": 580.13,
+      "pond_id": 15
+    },
+    {
+      "facility_id": 48,
+      "kind": "inlet_outlet",
+      "x": 107.67,
+      "y": 787.78,
+      "pond_id": 16
+    },
+    {
+      "facility_id": 49,
+      "kind": "feeding_point",
+      "x": 195.15,
+      "y": 775.66,
+      "pond_id": 16
+    },
+    {
+      "facility_id": 50,
+      "kind": "water_sensor",
+      "x": 207.64,
+      "y": 801.59,
+      "pond_id": 16
+    },
+    {
+      "facility_id": 51,
+      "kind": "inlet_outlet",
+      "x": 272.69,
+      "y": 796.91,
+      "pond_id": 17
+    },
+    {
+      "facility_id": 52,
+      "kind": "feeding_point",
+      "x": 307.31,
+      "y": 822.26,
+      "pond_id": 17
+    },
+    {
+      "facility_id": 53,
+      "kind": "aerator",
+      "x": 306.62,
+      "y": 783.19,
+      "pond_id": 17
+    },
+    {
+      "facility_id": 54,
+      "kind": "inlet_outlet",
+      "x": 580.77,
+      "y": 789.11,
+      "pond_id": 18
+    },
+    {
+      "facility_id": 55,
+      "kind": "feeding_point",
+      "x": 522.9,
+      "y": 801.81,
+      "pond_id": 18
+    },
+    {
+      "facility_id": 56,
+      "kind": "aerator",
+      "x": 534.3,
+      "y": 804.21,
+      "pond_id": 18
+    },
+    {
+      "facility_id": 57,
+      "kind": "water_sensor",
+      "x": 524.81,
+      "y": 769.87,
+      "pond_id": 18
+    }
+  ],
+  "obstacles": [
+    {
+      "obstacle_id": 1,
+      "kind": "pump_house",
+      "x": 55,
+      "y": 455,
+      "width": 55,
+      "height": 80
+    },
+    {
+      "obstacle_id": 2,
+      "kind": "tree_cluster",
+      "x": 925,
+      "y": 430,
+      "width": 45,
+      "height": 95
+    },
+    {
+      "obstacle_id": 3,
+      "kind": "power_pole_zone",
+      "x": 475,
+      "y": 910,
+      "width": 90,
+      "height": 35
+    },
+    {
+      "obstacle_id": 4,
+      "kind": "storage_shed",
+      "x": 35,
+      "y": 820,
+      "width": 75,
+      "height": 55
+    },
+    {
+      "obstacle_id": 5,
+      "kind": "tree_cluster",
+      "x": 890,
+      "y": 120,
+      "width": 70,
+      "height": 50
+    }
+  ]
+}

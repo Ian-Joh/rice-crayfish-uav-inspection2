@@ -1,0 +1,17 @@
+﻿parameter,value
+scenario,connected_block_rice_crayfish_farm_with_canals
+map_width_m,1000
+map_height_m,1000
+grid_size_m,20
+random_seed,20260612
+n_production_units,18
+n_rice_crayfish_paddy_units,15
+n_crayfish_pond_units,3
+n_canals,5
+n_inlet_outlet,18
+n_feeding_points,18
+n_aerators,11
+n_water_sensors,10
+n_obstacles,5
+uav_speed_mps,6.0
+camera_footprint_radius_m,35.0

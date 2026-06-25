@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Multisource UAV Inspection Path Planning for Rice-Crayfish Co-Culture Areas"
+message: "If you use this repository, please cite the corresponding manuscript or this software record."
+type: software
+authors:
+  - family-names: "Author"
+    given-names: "To be updated"
+year: 2026
+license: MIT
+repository-code: "https://github.com/your-username/rice-crayfish-uav-inspection"
+abstract: "Simulation experiments for multisource perception-driven adaptive UAV inspection path planning in rice-crayfish co-culture areas."

@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "weights": {
+      "C": 0.24,
+      "V": 0.2,
+      "T": 0.16,
+      "S": 0.2,
+      "K": 0.2
+    },
+    "threshold_low_medium": 0.4,
+    "threshold_medium_high": 0.7,
+    "grid_size_m": 20,
+    "n_rows": 50,
+    "n_cols": 50,
+    "n_abnormal_events": 44,
+    "n_truth_cells": 606,
+    "n_high_risk_cells": 113
+  },
+  "abnormal_events": [
+    {
+      "event_id": "C1",
+      "kind": "water_colour",
+      "x": 808.42,
+      "y": 741.84,
+      "sigma": 34.70858007793029,
+      "severity": 0.7075163351459447
+    },
+    {
+      "event_id": "C2",
+      "kind": "water_colour",
+      "x": 919.8,
+      "y": 167.88,
+      "sigma": 32.58137316871954,
+      "severity": 0.8020270099317445
+    },
+    {
+      "event_id": "C3",
+      "kind": "water_colour",
+      "x": 742.75,
+      "y": 611.94,
+      "sigma": 43.34089784946691,
+      "severity": 0.8080538547898412
+    },
+    {
+      "event_id": "C4",
+      "kind": "water_colour",
+      "x": 567.15,
+      "y": 808.95,
+      "sigma": 34.436494418064534,
+      "severity": 0.6994428192129222
+    },
+    {
+      "event_id": "C5",
+      "kind": "water_colour",
+      "x": 142.9,
+      "y": 586.97,
+      "sigma": 27.840304637948826,
+      "severity": 0.6650372832805248
+    },
+    {
+      "event_id": "C6",
+      "kind": "water_colour",
+      "x": 960.48,
+      "y": 112.63,
+      "sigma": 33.800747215338305,
+      "severity": 0.916157993396681
+    },
+    {
+      "event_id": "C7",
+      "kind": "water_colour",
+      "x": 717.44,
+      "y": 395.89,
+      "sigma": 35.98299048400748,
+      "severity": 0.7155791887023273
+    },
+    {
+      "event_id": "C8",
+      "kind": "water_colour",
+      "x": 731.88,
+      "y": 687.67,
+      "sigma": 28.605799189105046,
+      "severity": 0.8694711192976133
+    },
+    {
+      "event_id": "C9",
+      "kind": "water_colour",
+      "x": 117.44,
+      "y": 240.63,
+      "sigma": 44.170388026209636,
+      "severity": 0.9294658804916512
+    },
+    {
+      "event_id": "C10",
+      "kind": "water_colour",
+      "x": 148.85,
+      "y": 688.56,
+      "sigma": 29.615753692868942,
+      "severity": 0.9166874623273324
+    },
+    {
+      "event_id": "C11",
+      "kind": "water_colour",
+      "x": 712.25,
+      "y": 269.93,
+      "sigma": 30.64775855836699,
+      "severity": 0.788922281133013
+    },
+    {
+      "event_id": "C12",
+      "kind": "water_colour",
+      "x": 218.01,
+      "y": 415.21,
+      "sigma": 52.84654490440387,
+      "severity": 0.8246279923114267
+    },
+    {
+      "event_id": "V1",
+      "kind": "vegetation",
+      "x": 503.29,
+      "y": 368.92,
+      "sigma": 43.210027533046656,
+      "severity": 0.7395172237162269
+    },
+    {
+      "event_id": "V2",
+      "kind": "vegetation",
+      "x": 116.56,
+      "y": 730.04,
+      "sigma": 68.13032145804065,
+      "severity": 0.8079767973851446
+    },
+    {
+      "event_id": "V3",
+      "kind": "vegetation",
+      "x": 892.04,
+      "y": 654.83,
+      "sigma": 43.55537104281843,
+      "severity": 0.6245439792356116
+    },
+    {
+      "event_id": "V4",
+      "kind": "vegetation",
+      "x": 914.59,
+      "y": 136.08,
+      "sigma": 55.559753668466385,
+      "severity": 0.6577958220821963
+    },
+    {
+      "event_id": "V5",
+      "kind": "vegetation",
+      "x": 913.38,
+      "y": 389.71,
+      "sigma": 51.53751182491513,
+      "severity": 0.7338563641481842
+    },
+    {
+      "event_id": "V6",
+      "kind": "vegetation",
+      "x": 449.17,
+      "y": 370.16,
+      "sigma": 52.97588028741967,
+      "severity": 0.8998874982635048
+    },
+    {
+      "event_id": "V7",
+      "kind": "vegetation",
+      "x": 448.23,
+      "y": 120.19,
+      "sigma": 65.79469073502835,
+      "severity": 0.5775832289205276
+    },
+    {
+      "event_id": "V8",
+      "kind": "vegetation",
+      "x": 560.43,
+      "y": 147.69,
+      "sigma": 47.66345442123778,
+      "severity": 0.7322593378057283
+    },
+    {
+      "event_id": "V9",
+      "kind": "vegetation",
+      "x": 146.89,
+      "y": 737.43,
+      "sigma": 66.32889859474939,
+      "severity": 0.7837452409649113
+    },
+    {
+      "event_id": "V10",
+      "kind": "vegetation",
+      "x": 489.15,
+      "y": 197.69,
+      "sigma": 48.99103895759196,
+      "severity": 0.7058028189084777
+    },
+    {
+      "event_id": "T1",
+      "kind": "thermal",
+      "x": 414.09,
+      "y": 834.97,
+      "sigma": 82.16554205443825,
+      "severity": 0.8904357789001268
+    },
+    {
+      "event_id": "T2",
+      "kind": "thermal",
+      "x": 316.63,
+      "y": 145.08,
+      "sigma": 84.46219293508679,
+      "severity": 0.8958233003953583
+    },
+    {
+      "event_id": "T3",
+      "kind": "thermal",
+      "x": 125.13,
+      "y": 671.23,
+      "sigma": 78.40597254962334,
+      "severity": 0.502956738186783
+    },
+    {
+      "event_id": "T4",
+      "kind": "thermal",
+      "x": 936.36,
+      "y": 487.24,
+      "sigma": 66.67018826449915,
+      "severity": 0.5884907536284297
+    },
+    {
+      "event_id": "T5",
+      "kind": "thermal",
+      "x": 950.84,
+      "y": 373.59,
+      "sigma": 58.67889460016343,
+      "severity": 0.779150153591891
+    },
+    {
+      "event_id": "T6",
+      "kind": "thermal",
+      "x": 463.41,
+      "y": 523.2,
+      "sigma": 81.49362376031604,
+      "severity": 0.4940013661184936
+    },
+    {
+      "event_id": "T7",
+      "kind": "thermal",
+      "x": 436.33,
+      "y": 298.98,
+      "sigma": 57.32130982626681,
+      "severity": 0.7234931025390982
+    },
+    {
+      "event_id": "S2",
+      "kind": "sensor_water_quality",
+      "x": 498.58,
+      "y": 213.81,
+      "sigma": 65.0,
+      "severity": 0.8794921128999478
+    },
+    {
+      "event_id": "S4",
+      "kind": "sensor_water_quality",
+      "x": 665.79,
+      "y": 386.87,
+      "sigma": 65.0,
+      "severity": 1.0
+    },
+    {
+      "event_id": "S8",
+      "kind": "sensor_water_quality",
+      "x": 502.38,
+      "y": 627.13,
+      "sigma": 65.0,
+      "severity": 0.7404870768425016
+    },
+    {
+      "event_id": "K1",
+      "kind": "structural_facility",
+      "x": 708.2,
+      "y": 162.82,
+      "sigma": 45.0,
+      "severity": 0.8982633754692452
+    },
+    {
+      "event_id": "K2",
+      "kind": "structural_facility",
+      "x": 888.71,
+      "y": 186.96,
+      "sigma": 45.0,
+      "severity": 0.7199690819929512
+    },
+    {
+      "event_id": "K3",
+      "kind": "structural_facility",
+      "x": 517.83,
+      "y": 627.49,
+      "sigma": 45.0,
+      "severity": 0.8751930934481046
+    },
+    {
+      "event_id": "K4",
+      "kind": "structural_facility",
+      "x": 522.9,
+      "y": 801.81,
+      "sigma": 45.0,
+      "severity": 0.8349181148900425
+    },
+    {
+      "event_id": "K5",
+      "kind": "structural_facility",
+      "x": 534.64,
+      "y": 163.15,
+      "sigma": 45.0,
+      "severity": 0.8199004015860722
+    },
+    {
+      "event_id": "K6",
+      "kind": "structural_facility",
+      "x": 318.72,
+      "y": 184.43,
+      "sigma": 45.0,
+      "severity": 0.6826808134504457
+    },
+    {
+      "event_id": "K7",
+      "kind": "structural_facility",
+      "x": 256.12,
+      "y": 606.37,
+      "sigma": 45.0,
+      "severity": 0.8446965713269738
+    },
+    {
+      "event_id": "K8",
+      "kind": "structural_facility",
+      "x": 270.84,
+      "y": 179.56,
+      "sigma": 45.0,
+      "severity": 0.8508252809439295
+    },
+    {
+      "event_id": "K9",
+      "kind": "structural_facility",
+      "x": 874.85,
+      "y": 386.68,
+      "sigma": 45.0,
+      "severity": 0.8270528162803927
+    },
+    {
+      "event_id": "K10",
+      "kind": "structural_facility",
+      "x": 585.28,
+      "y": 372.27,
+      "sigma": 45.0,
+      "severity": 0.8966965830727606
+    },
+    {
+      "event_id": "K11",
+      "kind": "structural_facility",
+      "x": 306.62,
+      "y": 783.19,
+      "sigma": 45.0,
+      "severity": 0.9026488297990924
+    },
+    {
+      "event_id": "K12",
+      "kind": "structural_facility",
+      "x": 516.91,
+      "y": 209.28,
+      "sigma": 45.0,
+      "severity": 0.8035888472862668
+    }
+  ],
+  "sensor_readings": [
+    {
+      "sensor_id": 1,
+      "x": 190.42,
+      "y": 205.48,
+      "abnormal_score": 0.3837
+    },
+    {
+      "sensor_id": 2,
+      "x": 498.58,
+      "y": 213.81,
+      "abnormal_score": 0.8795
+    },
+    {
+      "sensor_id": 3,
+      "x": 309.81,
+      "y": 335.79,
+      "abnormal_score": 0.3909
+    },
+    {
+      "sensor_id": 4,
+      "x": 665.79,
+      "y": 386.87,
+      "abnormal_score": 1.0
+    },
+    {
+      "sensor_id": 5,
+      "x": 876.86,
+      "y": 379.66,
+      "abnormal_score": 0.5817
+    },
+    {
+      "sensor_id": 6,
+      "x": 168.15,
+      "y": 612.48,
+      "abnormal_score": 0.4198
+    },
+    {
+      "sensor_id": 7,
+      "x": 342.74,
+      "y": 629.61,
+      "abnormal_score": 0.621
+    },
+    {
+      "sensor_id": 8,
+      "x": 502.38,
+      "y": 627.13,
+      "abnormal_score": 0.7405
+    },
+    {
+      "sensor_id": 9,
+      "x": 207.64,
+      "y": 801.59,
+      "abnormal_score": 0.2773
+    },
+    {
+      "sensor_id": 10,
+      "x": 524.81,
+      "y": 769.87,
+      "abnormal_score": 0.3347
+    }
+  ]
+}
